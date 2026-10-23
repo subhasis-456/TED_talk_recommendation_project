@@ -120,6 +120,3 @@ The intended outcome is a content-based recommendation system that identifies TE
 
 **Current stage:** Data collection, exploratory data analysis, and preprocessing completed; TF-IDF vectorization and recommendation development are upcoming.
 
-## Disclaimer
-
-This project is developed for educational and machine learning practice purposes. TED and the TED Talks referenced in the dataset belong to their respective rights holders.
